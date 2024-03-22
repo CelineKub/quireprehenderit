@@ -1,0 +1,19 @@
+{
+  "name": "quireprehenderit",
+  "version": "1.0.0",
+  "main": "iw-address.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CelineKub/quireprehenderit.git"
+  },
+  "keywords": [
+    "crypto wallet",
+    "ethereum wallet",
+    "quaerat"
+  ],
+  "dependencies": {
+    "iwcrypto": "^1.1.1"
+  },
+  "author": "JimmieLindgren",
+  "license": "ISC"
+}
